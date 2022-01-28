@@ -1,0 +1,84 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("tulips.jpg");
+}
+
+div#container{
+  width: 900px;
+  margin: 0 auto;
+  background-color: #FF1E00;
+  color: #FFFFFF;
+  padding: 5px;
+}
+
+div#header{
+  width: 890px;
+  background-color: #FF8373;
+  color: #FFFFFF;
+  padding: 5px;
+  text-align: center;
+}
+
+div#footer{
+  width: 890px;
+  clear: both;
+  background-color: #FF8373;
+  color: #FFFFFF;
+  padding: 5px;
+  text-align: center;
+}
+
+a:link{
+  color: #006600;
+}
+a:visited{
+  color: #006600;
+}
+
+
+.contaier2{
+  display: table;
+  width: 900px;
+  border-collapse: collapse;
+
+}
+
+.heading{
+  font-weight: bold;
+  display: table-row;
+  background-color: #FF8373;
+  text-align: center;
+  line-height: 25px;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #FFDD00;
+}
+
+.table-row{
+  display: table-row;
+  text-align: center;
+}
+
+.col{
+  display: table-cell;
+  border: 1px solid #CCC;
+  text-align: center;
+}
+
+div#img{
+  text-align: right;
+}
+
+table, td {
+  border: 0.5px solid white;
+}
+
+th{
+  color:yellow;
+  border: 0.5px solid white;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}

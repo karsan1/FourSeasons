@@ -1,0 +1,48 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("halloweenback.jpg");
+}
+
+div#container{
+  width: 900px;
+  margin: 0 auto;
+  background-color: orange;
+  color: #FFFFFF;
+  padding: 5px;
+}
+
+div#header{
+  width: 890px;
+  background-color: black; 
+  padding: 5px;
+  text-align: center;
+}
+
+div#footer{
+  width: 890px;
+  clear: both;
+  background-color: black;
+  color: #FFFFFF;
+  padding: 5px;
+  text-align: center;
+}
+
+a:link{
+  color: #006600;
+  text-decoration:none;
+}
+a:visited{
+  color: #006600;
+}
+
+h2{
+  color:black;
+}
+
+div#img{
+  text-align: right;
+}
+
+div#img2{
+  text-align: center;
+}

@@ -1,0 +1,49 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("laborday.jpg");
+}
+
+div#container{
+  width: 900px;
+  margin: 0 auto;
+  background-color: #032d7a;
+  color: #FFFFFF;
+  padding: 5px;
+}
+
+div#header{
+  width: 890px;
+  background-color: rgb(114, 175, 255);
+  color: #FFFFFF;
+  padding: 5px;
+  text-align: center;
+}
+
+div#footer{
+  width: 890px;
+  clear: both;
+  background-color: rgb(114, 175, 255);
+  color: #FFFFFF;
+  padding: 5px;
+  text-align: center;
+}
+
+a:link{
+  color: #006600;
+  text-decoration:none;
+}
+a:visited{
+  color: #006600;
+}
+
+h2{
+  color:rgb(114, 175, 255);
+}
+
+div#img{
+  text-align: right;
+}
+
+div#img2{
+  text-align: center;
+}

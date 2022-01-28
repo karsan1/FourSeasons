@@ -1,0 +1,48 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("newyearsback.jpg");
+}
+
+div#container{
+  width: 900px;
+  margin: 0 auto;
+  background-color: red;
+  color: #FFFFFF;
+  padding: 5px;
+}
+
+div#header{
+  width: 890px;
+  background-color: blue; 
+  padding: 5px;
+  text-align: center;
+}
+
+div#footer{
+  width: 890px;
+  clear: both;
+  background-color: blue;
+  color: #FFFFFF;
+  padding: 5px;
+  text-align: center;
+}
+
+a:link{
+  color: #006600;
+  text-decoration:none;
+}
+a:visited{
+  color: #006600;
+}
+
+h2{
+  color:white;
+}
+
+div#img{
+  text-align: right;
+}
+
+div#img2{
+  text-align: center;
+}
